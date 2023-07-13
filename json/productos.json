@@ -1,0 +1,172 @@
+[
+    {
+        "id":1,
+        "nombre":"Tododia Jabon",
+        "precio":"1730",
+        "descripcion":"5u, Ciruela y Flor de Vanilla",
+        "imagen":"jabonciruela.png",
+        "categoria":"Jabones"
+
+
+    },
+    {
+        "id":2,
+        "nombre":"Tododia Jabon",
+        "precio":"1990",
+        "descripcion":"4u, Mandarina y Frambuesa",
+        "imagen":"jabonfeliz.png",
+        "categoria":"Jabones"
+
+
+    },
+    {
+        "id":3,
+        "nombre":"Tododia Anti-Transpirante Desodorante",
+        "precio":"820",
+        "descripcion":"Invisible,Avellana",
+        "imagen":"antiavellana.png",
+        "categoria":"Desodorantes"
+
+
+    },
+    {
+        "id":4,
+        "nombre":"Kaiak Perfume Femenino",
+        "precio":"8500",
+        "descripcion":"100ml, Moderada Citrica Rosa",
+        "imagen":"kaiakfem.png",
+        "categoria":"Perfumes"
+
+
+    },
+    {
+        "id":5,
+        "nombre":"Kaiak Perfume Aventura Femenino",
+        "precio":"8000",
+        "descripcion":"100ml,Moderada,Floral,Notas Marinas",
+        "imagen":"kaiakaventura.png",
+        "categoria":"Perfumes"
+
+
+    },
+    {
+        "id":6,
+        "nombre":"Aguas Colonia",
+        "precio":"4810",
+        "descripcion":"150ml,Frutas Tropicales,Jazmin",
+        "imagen":"coloniaaguas.png",
+        "categoria":"Perfumes"
+
+
+    },
+    {
+        "id":7,
+        "nombre":"Ekos Perfume Maracuyà",
+        "precio":"5500",
+        "descripcion":"150ml,Leve,Cedro,Frutal",
+        "imagen":"ekosmaracuyá.png",
+        "categoria":"Perfumes"
+
+
+    },
+    {
+        "id":8,
+        "nombre":"Tododia Body Splash",
+        "precio":"5500",
+        "descripcion":"200ml, Leve Fresca Limon Flores",
+        "imagen":"bodysplashlimon.png",
+        "categoria":"Perfumes"
+
+
+    },
+    {
+        "id":9,
+        "nombre":"Tododia Crema Corporal",
+        "precio":"3430",
+        "descripcion":"400ml,Nuez Pecan Cacao Linaza,Prebiotico",
+        "imagen":"cremanuez.png",
+        "categoria":"Cremas"
+
+
+    },
+    {
+        "id":10,
+        "nombre":"Tododia Crema Pies",
+        "precio":"1370",
+        "descripcion":"50ml,Cacao Linaza,Limon",
+        "imagen":"cremapieslimon.png",
+        "categoria":"Cremas"
+
+
+    },
+    {
+        "id":11,
+        "nombre":"Ekos Crema Manos",
+        "precio":"1400",
+        "descripcion":"40g,Hidrata y Regenera la Piel,Aroma Pitanga Preta",
+        "imagen":"cremaekospitanga.png",
+        "categoria":"Cremas"
+
+
+    },
+    { 
+        "id":12,
+        "nombre":"Ekos Crema Manos",
+        "precio":"1400",
+        "descripcion":"40g,Hidrata y Regenera la Piel De las Manos e Uñas,Aroma Castañas ",
+        "imagen":"cremaekoscastanha.png",
+        "categoria":"Cremas"
+
+
+    },
+    { 
+        "id":13,
+        "nombre":"Ekos Crema Manos",
+        "precio":"1400",
+        "descripcion":"40mg,Hidrata y Regenera la Piel De las Manos Aroma Ish Pink",
+        "imagen":"cremasekosishpink.png",
+        "categoria":"Cremas"
+
+
+    },
+    {
+        "id":14,
+        "nombre":"Lumina Shampoo",
+        "precio":"1250",
+        "descripcion":"300ml,Repuesto,Lisos Naturales,Purifica",
+        "imagen":"luminashampoo.png",
+        "categoria":"Shampoos & Acondicionadores"
+
+    },
+    {
+        "id":15,
+        "nombre":"Plant Acondicionador",
+        "precio":"1200",
+        "descripcion":"300ml,Repuesto de Acondicionador, Liso y Suelto ,Queratina Vegetal",
+        "imagen":"plantlisos.png",
+        "categoria":"Shampoos & Acondicionadores"
+
+
+    },
+    {
+        "id":16,
+        "nombre":"Plant Acondicionador",
+        "precio":"1200",
+        "descripcion":"300ml,Repuesto de Acondicionador, Revitalizacion Post-Quimica, Aceite de Nuez Pecan",
+        "imagen":"plantrevita.png",
+        "categoria":"Shampoos & Acondicionadores"
+
+
+    },
+    {
+        "id":17,
+        "nombre":"Plant Acondicionador",
+        "precio":"1200",
+        "descripcion":"300ml,Repuesto de Acondicionador, Hidrataciòn Reparadora, BioaminoÀcidos de Quinoa",
+        "imagen":"planthidratacion.png",
+        "categoria":"Shampoos & Acondicionadores"
+
+
+    }
+]
+  
